@@ -76,6 +76,12 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ShoutzOCRX\ShoutzOCRX.csproj">
+      <Project>{41b58782-1798-4c86-a653-7fe4bb872799}</Project>
+      <Name>ShoutzOCRX</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
