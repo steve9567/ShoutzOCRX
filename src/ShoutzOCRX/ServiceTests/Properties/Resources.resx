@@ -118,10 +118,34 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="TX-Powerball-006" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Texture\TX-Powerball-006.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="TX-Powerball-0-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TX-Powerball-0-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="TX-Powerball-7" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Texture\TX-Powerball-7.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="TX-Powerball-1-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TX-Powerball-1-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TX-Powerball-2-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TX-Powerball-2-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TX-Powerball-3-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TX-Powerball-3-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TX-Powerball-4-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TX-Powerball-4-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TX-Powerball-5-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TX-Powerball-5-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TX-Powerball-6-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TX-Powerball-6-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TX-Powerball-7-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TX-Powerball-7-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TX-Powerball-8-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TX-Powerball-8-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="TX-Powerball-9-1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\TX-Powerball-9-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

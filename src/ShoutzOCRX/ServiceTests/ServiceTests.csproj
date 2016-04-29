@@ -59,18 +59,18 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-      <DesignTime>True</DesignTime>
-    </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
@@ -87,16 +87,16 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Texture\TX-Powerball-0-1.jpg" />
-    <Content Include="Texture\TX-Powerball-1-1.jpg" />
-    <Content Include="Texture\TX-Powerball-2-1.jpg" />
-    <Content Include="Texture\TX-Powerball-3-1.jpg" />
-    <Content Include="Texture\TX-Powerball-4-1.jpg" />
-    <Content Include="Texture\TX-Powerball-5-1.jpg" />
-    <Content Include="Texture\TX-Powerball-6-1.jpg" />
-    <Content Include="Texture\TX-Powerball-7-1.jpg" />
-    <Content Include="Texture\TX-Powerball-8-1.jpg" />
-    <Content Include="Texture\TX-Powerball-9-1.jpg" />
+    <None Include="Resources\TX-Powerball-0-1.jpg" />
+    <None Include="Resources\TX-Powerball-1-1.jpg" />
+    <None Include="Resources\TX-Powerball-2-1.jpg" />
+    <None Include="Resources\TX-Powerball-3-1.jpg" />
+    <None Include="Resources\TX-Powerball-4-1.jpg" />
+    <None Include="Resources\TX-Powerball-5-1.jpg" />
+    <None Include="Resources\TX-Powerball-6-1.jpg" />
+    <None Include="Resources\TX-Powerball-7-1.jpg" />
+    <None Include="Resources\TX-Powerball-8-1.jpg" />
+    <None Include="Resources\TX-Powerball-9-1.jpg" />
     <Content Include="TX-Powerball-006.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
