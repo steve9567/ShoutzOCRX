@@ -23,7 +23,7 @@ namespace ShoutzOCRX.Objects
 
         public pxStream(int Width, int Height)
         {
-            int x = 0;
+            
 
             this.Width = Width;
             this.Height = Height;
