@@ -48,9 +48,9 @@ namespace ShoutzOCRX.Objects
         /// Async OCRRead call from pxStream 'SingleWord.DataStream'
         /// </summary>
         /// <returns>Void. Sets OCROutput success flag to true and populates its data.</returns>
-        public Task OCRReadFromData()
+        public void OCRReadFromData()
         {
-            throw new NotImplementedException();
+            Engine.swTest.swtesting(_pxs);
             //Implement OCR Engine
         }
 
@@ -74,7 +74,7 @@ namespace ShoutzOCRX.Objects
         {
             int width = img.Width;
 
-            pxStream stream = new pxStream(width);
+            pxStream stream = new pxStream(width, img.Height);
 
             Bitmap map = new Bitmap(img);
 

@@ -69,5 +69,15 @@ namespace ServiceTests.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap TX_Powerball_7 {
+            get {
+                object obj = ResourceManager.GetObject("TX-Powerball-7", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }

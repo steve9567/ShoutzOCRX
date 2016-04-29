@@ -88,6 +88,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Texture\TX-Powerball-006.jpg" />
+    <None Include="Texture\TX-Powerball-7.jpg" />
     <Content Include="TX-Powerball-006.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

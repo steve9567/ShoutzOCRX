@@ -18,11 +18,12 @@ namespace ServiceTests
             InitializeComponent();
         }
 
-        private async void button1_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
             ShoutzOCRX.Objects.SingleWord word = new ShoutzOCRX.Objects.SingleWord();
             ShoutzOCRX.Objects.pxStream stream = word.ImageToPXStream(pictureBox1.Image);
-            //await word.OCRReadFromData();
+            word.SetDataStream(stream);
+            word.OCRReadFromData();
             
             foreach(byte b in stream.Data)
             {

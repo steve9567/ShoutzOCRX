@@ -11,6 +11,6 @@ namespace ShoutzOCRX.Interface
         Objects.pxStream DataStream { get; set; }
         bool SetDataStream(Objects.pxStream stream);
         Objects.OCROutput GetOutput();
-        Task OCRReadFromData();
+        void OCRReadFromData();
     }
 }

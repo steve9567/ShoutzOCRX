@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="Engine\swTest.cs" />
     <Compile Include="Interface\IOCRReadable.cs" />
     <Compile Include="Objects\px.cs" />
     <Compile Include="Objects\OCROutput.cs" />

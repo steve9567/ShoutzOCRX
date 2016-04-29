@@ -1,0 +1,11 @@
+C:\Users\Steve\Documents\GitHub\ShoutzOCRX\src\ShoutzOCRX\ServiceTests\bin\Debug\ServiceTests.exe.config
+C:\Users\Steve\Documents\GitHub\ShoutzOCRX\src\ShoutzOCRX\ServiceTests\bin\Debug\ServiceTests.exe
+C:\Users\Steve\Documents\GitHub\ShoutzOCRX\src\ShoutzOCRX\ServiceTests\bin\Debug\ServiceTests.pdb
+C:\Users\Steve\Documents\GitHub\ShoutzOCRX\src\ShoutzOCRX\ServiceTests\bin\Debug\ShoutzOCRX.dll
+C:\Users\Steve\Documents\GitHub\ShoutzOCRX\src\ShoutzOCRX\ServiceTests\bin\Debug\ShoutzOCRX.pdb
+C:\Users\Steve\Documents\GitHub\ShoutzOCRX\src\ShoutzOCRX\ServiceTests\obj\Debug\ServiceTests.csprojResolveAssemblyReference.cache
+C:\Users\Steve\Documents\GitHub\ShoutzOCRX\src\ShoutzOCRX\ServiceTests\obj\Debug\ServiceTests.Form1.resources
+C:\Users\Steve\Documents\GitHub\ShoutzOCRX\src\ShoutzOCRX\ServiceTests\obj\Debug\ServiceTests.Properties.Resources.resources
+C:\Users\Steve\Documents\GitHub\ShoutzOCRX\src\ShoutzOCRX\ServiceTests\obj\Debug\ServiceTests.csproj.GenerateResource.Cache
+C:\Users\Steve\Documents\GitHub\ShoutzOCRX\src\ShoutzOCRX\ServiceTests\obj\Debug\ServiceTests.exe
+C:\Users\Steve\Documents\GitHub\ShoutzOCRX\src\ShoutzOCRX\ServiceTests\obj\Debug\ServiceTests.pdb

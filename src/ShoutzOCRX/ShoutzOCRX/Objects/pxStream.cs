@@ -11,6 +11,7 @@ namespace ShoutzOCRX.Objects
         public List<px> Data = new List<px>();
 
         public int Width;
+        public int Height;
 
         public px this[int x, int y]
         {
@@ -20,9 +21,13 @@ namespace ShoutzOCRX.Objects
             }
         }
 
-        public pxStream(int Width)
+        public pxStream(int Width, int Height)
         {
+            int x = 0;
+
             this.Width = Width;
+            this.Height = Height;
+            
         }
     }
 }
