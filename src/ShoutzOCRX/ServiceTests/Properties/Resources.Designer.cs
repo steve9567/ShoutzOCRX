@@ -63,9 +63,9 @@ namespace ServiceTests.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap TX_Powerball_006 {
+        internal static System.Drawing.Bitmap TX_Powerball_0_1 {
             get {
-                object obj = ResourceManager.GetObject("TX-Powerball-006", resourceCulture);
+                object obj = ResourceManager.GetObject("TX-Powerball-0-1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,9 +73,89 @@ namespace ServiceTests.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap TX_Powerball_7 {
+        internal static System.Drawing.Bitmap TX_Powerball_1_1 {
             get {
-                object obj = ResourceManager.GetObject("TX-Powerball-7", resourceCulture);
+                object obj = ResourceManager.GetObject("TX-Powerball-1-1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap TX_Powerball_2_1 {
+            get {
+                object obj = ResourceManager.GetObject("TX-Powerball-2-1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap TX_Powerball_3_1 {
+            get {
+                object obj = ResourceManager.GetObject("TX-Powerball-3-1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap TX_Powerball_4_1 {
+            get {
+                object obj = ResourceManager.GetObject("TX-Powerball-4-1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap TX_Powerball_5_1 {
+            get {
+                object obj = ResourceManager.GetObject("TX-Powerball-5-1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap TX_Powerball_6_1 {
+            get {
+                object obj = ResourceManager.GetObject("TX-Powerball-6-1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap TX_Powerball_7_1 {
+            get {
+                object obj = ResourceManager.GetObject("TX-Powerball-7-1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap TX_Powerball_8_1 {
+            get {
+                object obj = ResourceManager.GetObject("TX-Powerball-8-1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap TX_Powerball_9_1 {
+            get {
+                object obj = ResourceManager.GetObject("TX-Powerball-9-1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
