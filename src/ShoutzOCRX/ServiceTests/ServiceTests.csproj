@@ -87,8 +87,16 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Texture\TX-Powerball-006.jpg" />
-    <None Include="Texture\TX-Powerball-7.jpg" />
+    <Content Include="Texture\TX-Powerball-0-1.jpg" />
+    <Content Include="Texture\TX-Powerball-1-1.jpg" />
+    <Content Include="Texture\TX-Powerball-2-1.jpg" />
+    <Content Include="Texture\TX-Powerball-3-1.jpg" />
+    <Content Include="Texture\TX-Powerball-4-1.jpg" />
+    <Content Include="Texture\TX-Powerball-5-1.jpg" />
+    <Content Include="Texture\TX-Powerball-6-1.jpg" />
+    <Content Include="Texture\TX-Powerball-7-1.jpg" />
+    <Content Include="Texture\TX-Powerball-8-1.jpg" />
+    <Content Include="Texture\TX-Powerball-9-1.jpg" />
     <Content Include="TX-Powerball-006.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
