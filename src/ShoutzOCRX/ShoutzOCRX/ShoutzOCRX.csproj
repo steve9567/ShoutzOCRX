@@ -41,7 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="Engine\Internal\Matrix.cs" />
+    <Compile Include="Engine\Internal\MatrixNxN.cs" />
+    <Compile Include="Engine\Internal\Rect.cs" />
     <Compile Include="Engine\swTest.cs" />
     <Compile Include="Interface\IOCRReadable.cs" />
     <Compile Include="Objects\px.cs" />

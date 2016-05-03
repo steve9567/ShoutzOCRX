@@ -9,3 +9,6 @@ C:\Users\Steve\Documents\GitHub\ShoutzOCRX\src\ShoutzOCRX\ServiceTests\obj\Debug
 C:\Users\Steve\Documents\GitHub\ShoutzOCRX\src\ShoutzOCRX\ServiceTests\obj\Debug\ServiceTests.csproj.GenerateResource.Cache
 C:\Users\Steve\Documents\GitHub\ShoutzOCRX\src\ShoutzOCRX\ServiceTests\obj\Debug\ServiceTests.exe
 C:\Users\Steve\Documents\GitHub\ShoutzOCRX\src\ShoutzOCRX\ServiceTests\obj\Debug\ServiceTests.pdb
+C:\Users\Tanner Wright\Source\Repos\ShoutzOCRX\src\ShoutzOCRX\ServiceTests\bin\Debug\ServiceTests.exe.config
+C:\Users\Tanner Wright\Source\Repos\ShoutzOCRX\src\ShoutzOCRX\ServiceTests\obj\Debug\ServiceTests.exe
+C:\Users\Tanner Wright\Source\Repos\ShoutzOCRX\src\ShoutzOCRX\ServiceTests\obj\Debug\ServiceTests.pdb

@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ShoutzOCRX
+namespace ShoutzOCRX.Engine.Internal
 {
-    public class Class1
+    internal class Matrix
     {
+
     }
 }
