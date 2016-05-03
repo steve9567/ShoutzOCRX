@@ -17,7 +17,7 @@ namespace ShoutzOCRX.Objects
         {
             get
             {
-                return Data[y * Width + x];
+                return Data[(y * Width) + x];
             }
         }
 
