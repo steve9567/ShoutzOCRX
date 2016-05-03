@@ -24,11 +24,16 @@ namespace ServiceTests
             ShoutzOCRX.Objects.pxStream stream = word.ImageToPXStream(pictureBox1.Image);
             word.SetDataStream(stream);
             word.OCRReadFromData();
-            
+
+            int g = 0;
             foreach(byte b in stream.Data)
             {
                 richTextBox1.Text += b.ToString();
+                if (g % stream.Width == 0)
+                    richTextBox1.Text += "\n";
+                g++;
             }
+            
         }
     }
 }

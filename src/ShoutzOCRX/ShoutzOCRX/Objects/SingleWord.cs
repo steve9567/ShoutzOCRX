@@ -50,8 +50,9 @@ namespace ShoutzOCRX.Objects
         /// <returns>Void. Sets OCROutput success flag to true and populates its data.</returns>
         public void OCRReadFromData()
         {
-            Engine.swTest.swtesting(_pxs);
+            //Engine.swTest.swtesting(_pxs);
             //Implement OCR Engine
+            Engine.swTest.swtesting2(_pxs);
         }
 
         /// <summary>
@@ -78,9 +79,9 @@ namespace ShoutzOCRX.Objects
 
             Bitmap map = new Bitmap(img);
 
-            for(int x = 0; x < img.Width; x++)
+            for(int y = 0; y < img.Height; y++)
             {
-                for(int y = 0; y < img.Height; y++)
+                for(int x = 0; x < img.Width; x++)
                 {
                     if(map.GetPixel(x, y).R < 10)
                     {
