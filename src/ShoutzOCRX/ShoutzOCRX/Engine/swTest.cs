@@ -89,6 +89,7 @@ namespace ShoutzOCRX.Engine
 
         }
 
+        //what did i just read... -tanner
         public static int swtesting2(Objects.pxStream myStream)
         {
             int iLeftTop = 0;

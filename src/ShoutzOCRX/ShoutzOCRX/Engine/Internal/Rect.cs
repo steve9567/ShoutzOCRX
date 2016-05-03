@@ -14,5 +14,21 @@ namespace ShoutzOCRX.Engine.Internal
         internal float BottomRightY;
 
         internal float DataWhiteRatio;
+
+        internal int Width
+        {
+            get
+            {
+                return (int)(BottomRightX - TopLeftX);
+            }
+        }
+
+        internal int Height
+        {
+            get
+            {
+                return (int)(TopLeftY - BottomRightY);
+            }
+        }
     }
 }

@@ -19,6 +19,10 @@ namespace ShoutzOCRX.Objects
             {
                 return Data[(y * Width) + x];
             }
+            set
+            {
+                Data[(y * Width) + x] = value;
+            }
         }
 
         public pxStream(int Width, int Height)
